@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.image-presentation-container{
+  width: 100%;
+  height: 380px;
+}
+
+.image-presentation{
+  width: 100%;
+  height: 100%;
+}
+
+.presentation-title-style{
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color:#545454;
+}
+
+.mission-title-style{
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-bottom: 20px;
+  color:#545454;
+}
+
+.text-container{
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 60px;
+}
+
+.image-wrapper{
+  width: 70%;
+  height: 70%;
+  margin: auto;
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+}
+
+.produit {
+  width: 29%;
+  margin: 0px 2% 0px 2%;
+  border: 2px outset grey;
+}
+
+.buttons{
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.title-form-spacing{
+  margin-top: 20px;
+  margin-bottom: 40px;
+  text-align: center;
+  color:#545454;
+}
+
+.form-container-padding{
+  width: 40%;
+  margin-top: 50px;
+  border: 2px outset grey;
+  border-radius: 10px;
+}
+
+.form-btn-spacing{
+  margin-top: 40px;
+  margin-bottom: 15px;
+  display: flex;
+  justify-content: space-between;   
+}
+
+.input-spacing{
+  margin-bottom: 30px;
+  margin-top: 35px;
+}
+
+.space-around{
+  display: flex;
+  row-gap: 30px;
+}
+
+.presentation-title-style{
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color:#545454;
+}
+
+
